@@ -1,1 +1,0 @@
-# simple_sdxl_promptgenerator
